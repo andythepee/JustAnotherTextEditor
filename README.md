@@ -1,4 +1,4 @@
-# JustAnotherTextEditor
+# JustAnotherTextEditor (JATE)
 
 ## Description 
 
