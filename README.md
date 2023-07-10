@@ -9,4 +9,5 @@ The URL of the GitHub repository is [https://github.com/andythepee/JustAnotherTe
 
 This application has been deployed to Heroku and the URL of the deployed application is:
 https://secure-shore-97264-1ecce1c17851.herokuapp.com/
-JATE
+JATE: ![image](https://github.com/andythepee/JustAnotherTextEditor/assets/131628979/1e896d73-873b-47d5-9759-66ca62bb68fe)
+
